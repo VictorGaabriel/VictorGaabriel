@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [TI(https://cubos.academy/cursos/desenvolvimento-de-software-v2)| Curso]
+🎓 Eu estudo [TI/Curso]
 
 
 ### Eu já trabalhei com... 🔧
