@@ -30,7 +30,7 @@
 
 
 ### GitHub Stats ⚡
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?VictorGaabriel={VictorGaabriel}&theme=blue-green)
 
 
 <a href="(https://github-readme-stats.vercel.app/api/top-langs/?VictorGaabriel={VictorGaabriel}&theme=blue-green)"></a>
