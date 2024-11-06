@@ -30,9 +30,8 @@
 
 
 ### GitHub Stats ⚡
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahul20000916&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+
 
 <a href="(https://github-readme-stats.vercel.app/api/top-langs/?VictorGaabriel={VictorGaabriel}&theme=blue-green)"></a>
 
