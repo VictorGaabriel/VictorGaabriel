@@ -1,4 +1,4 @@
-# Oi, me chamo [Victor Gabriel] 👋
+# Oi, me chamo Victor Gabriel👋
 
 ### Sobre mim
 
