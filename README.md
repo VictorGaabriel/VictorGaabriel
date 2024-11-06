@@ -31,7 +31,7 @@
 
 ### GitHub Stats ⚡
 
-<a href="[https://instagram.com/vitinngr](https://github-readme-stats.vercel.app/api/top-langs/?VictorGaabriel={VictorGaabriel}&theme=blue-green)"></a>
+<a href="(https://github-readme-stats.vercel.app/api/top-langs/?VictorGaabriel={VictorGaabriel}&theme=blue-green)"></a>
 
 ### Entre em contato comigo! 📭
 <div>
